@@ -269,10 +269,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 1_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided1-1.png)
+![Screenshot Output Unguided 1_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Laprak/blob/main/output/Soal%201.png)
 
 
 Program tersebut digunakan untuk menerima dua bilangan dari pengguna, kemudian melakukan empat operasi aritmatika dasar, yaitu penjumlahan, pengurangan, perkalian, dan pembagian. Hasil dari setiap operasi kemudian ditampilkan menggunakan cout.
@@ -315,12 +312,9 @@ int main() {
 
 ### Output Unguided 2 :
 
-##### Output 1
+##### Output 2
 
-![Screenshot Output Unguided 2_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 2_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided2-1.png)
+![Screenshot Output Unguided 2_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Laprak/blob/main/output/Soal%202.png)
 
 
 
@@ -357,10 +351,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 3_1](https://github.com/(username github kalian)/(nama repository github kalian)/blob/main/(path folder menyimpan screenshot output)/(nama file screenshot output).png)
-
-contoh :
-![Screenshot Output Unguided 3_1](https://github.com/DhimazHafizh/2311102151_Muhammad-Dhimas-Hafizh-Fathurrahman/blob/main/Pertemuan1_Modul1/Output-Unguided3-1.png)
+![Screenshot Output Unguided 3_1](https://github.com/mfaizmaulana20/109082500124_MuhammadFaizMaulana_Laprak/blob/main/output/Soal%203.png)
 
 
 Program tersebut menggunakan **perulangan bersarang (nested loop)** untuk membuat pola angka dengan tanda `*`. Perulangan pertama mengatur jumlah baris, sedangkan perulangan berikutnya digunakan untuk mengatur **spasi dan susunan angka di sebelah kiri dan kanan tanda `*`** hingga membentuk pola sesuai nilai input.
